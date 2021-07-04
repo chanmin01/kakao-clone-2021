@@ -1,0 +1,9 @@
+.screen-header__icons {
+	position: relative;
+}
+
+.badge__sm {
+	position: absolute;
+	left: 75px;
+	bottom: 20px;
+}
