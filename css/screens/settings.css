@@ -1,18 +1,19 @@
-.settings__setting {
-  padding: 20px 0;
-  border-bottom: var(--main-border);
-  font-size: 18px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+.settings-setting {
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.settings__setting i {
-  opacity: 0.8;
-  margin-right: 20px;
-  font-size: 22px;
+.settings-setting i {
+    margin-right: 20px;
+    opacity: 0.8;
+    font-size: 22px;
 }
 
-.settings__setting-last {
-  opacity: 0.5;
+.lastest-version {
+    opacity: 0.5;
 }
+

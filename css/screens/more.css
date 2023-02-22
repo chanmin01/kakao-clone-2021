@@ -1,39 +1,43 @@
+.subtitle__exclamation i{
+    color: rgb(239, 109, 109);
+}
+
 .more-screen .icon-row {
-  margin-top: 35px;
+    margin-top: 35px;
 }
 
 .more-suggestions {
-  margin-top: 50px;
-  border-top: var(--main-border);
-  padding-top: 40px;
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top: 40px;
 }
 
 .more-suggestions__title {
-  margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .more-suggestions__icons {
-  display: flex;
+    display: flex;
 }
 
 .more-suggestions__icon {
-  margin-right: 30px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
 }
 
 .more-suggestions__icon-image {
-  width: 60px;
-  height: 60px;
-  background-color: var(--yellow);
-  border-radius: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 10px;
+    width: 65px;
+    height: 65px;
+    background-color: rgb(243, 156, 171);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 .more-suggestions__icon-image i {
-  font-size: 36px;
+    font-size: 40px;
 }
